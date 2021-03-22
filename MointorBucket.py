@@ -1,5 +1,5 @@
 import boto3
-from fpdf import FPDF
+
 from PIL import Image
 
 cat = set()
